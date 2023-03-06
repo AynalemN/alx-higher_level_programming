@@ -26,3 +26,5 @@
 	* `word_last_2` should contain the last 2 letters of the variable `word`
 	* `middle_word` should contain the value of the variable `word` without the first and last letters
 8. Create a new sentence - Complete this source code to print object-oriented programming with Python, followed by a new line.
+9. Easter Egg - Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+	* Your script should be maximum 98 characters long (please check with `wc -m 9-easter_egg.py)`
