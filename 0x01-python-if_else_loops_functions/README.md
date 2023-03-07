@@ -38,3 +38,7 @@
 	* Print only the smallest combination of two digits
 	* Numbers should be printed in ascending order, with two digits
 	* The last number should be followed by a new line
+7. islower - Write a function that checks for lowercase character.
+	* Prototype: `def islower(c):`
+	* Returns `True` if `c` is lowercase
+	* Returns `False` otherwise
