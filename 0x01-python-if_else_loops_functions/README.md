@@ -26,3 +26,4 @@
 	* You can only use one loop in your code
 	* You are not allowed to store characters in a variable
 	* You are not allowed to import any module
+4. Hexadecimal printing - Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal
