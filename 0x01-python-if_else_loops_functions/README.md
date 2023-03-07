@@ -64,3 +64,4 @@
 14. Smile in the mirror - Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
 15. Remove at position - Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
 	* Prototype: `def remove_char_at(str, n):`
+16. ByteCode -> Python #2 - Write the Python function def magic_calculation(a, b, c):
