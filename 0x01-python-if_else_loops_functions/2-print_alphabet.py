@@ -1,6 +1,3 @@
 #!/usr/bin/python3
 if True:
-    print(f'{97:c}{98:c}{99:c}{100:c}{101:c}{102:c}{103:c}{104:c}\
-{105:c}{106:c}{107:c}{108:c}{109:c}{110:c}{111:c}{112:c}\
-{113:c}{114:c}{115:c}{116:c}{117:c}{118:c}{119:c}{120:c}\
-{121:c}{122:c}{123:c}', end="")
+    print(f'abcdefghijklmnopqrstuvwxyz', end="")
