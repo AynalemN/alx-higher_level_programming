@@ -62,3 +62,5 @@
 	* Prototype: `listint_t *insert_node(listint_t **head, int number);`
 	* Return: the address of the new node, or `NULL` if it failed
 14. Smile in the mirror - Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
+15. Remove at position - Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
+	* Prototype: `def remove_char_at(str, n):`
