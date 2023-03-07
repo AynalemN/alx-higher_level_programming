@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for i in range(ord('a'), ord('z') + 1):
-    print(f"{i:c}", end="")
+for alphabets in range(97, 123):
+    print("{}".format(chr(alphabets)), end="")
