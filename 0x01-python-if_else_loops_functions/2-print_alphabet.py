@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-if True:
-    print(f'abcdefghijklmnopqrstuvwxyz', end="")
+for i in range(ord('a'), ord('z') + 1):
+        print(f'{i:c}', end="")
