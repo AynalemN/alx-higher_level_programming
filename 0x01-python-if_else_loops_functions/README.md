@@ -42,3 +42,5 @@
 	* Prototype: `def islower(c):`
 	* Returns `True` if `c` is lowercase
 	* Returns `False` otherwise
+8. To uppercase - Write a function that prints a string in uppercase followed by a new line.
+	* Prototype: `def uppercase(str):`
