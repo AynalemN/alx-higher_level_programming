@@ -9,3 +9,4 @@
 7. Tuples addition - Write a function that adds 2 tuples.
 8. More returns! - Write a function that returns a tuple with the length of a string and its first character.
 9. Find the max - Write a function that finds the biggest integer of a list.
+10. Only by 2 - Write a function that finds all multiples of 2 in a list.
