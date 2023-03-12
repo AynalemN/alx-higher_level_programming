@@ -5,4 +5,4 @@ def multiple_returns(sentence):
     if leng == 0:
         return None
     else:
-        return (leng, first_char)
+        return leng, first_char
