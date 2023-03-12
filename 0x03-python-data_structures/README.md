@@ -6,3 +6,4 @@
 4. Replace in a copy - Write a function that replaces an element in a list at a specific position without modifying the original list (like in C).
 5. Can you C me now? - Write a function that removes all characters c and C from a string.
 6. Lists of lists = Matrix - Write a function that prints a matrix of integers.
+7. Tuples addition - Write a function that adds 2 tuples.
