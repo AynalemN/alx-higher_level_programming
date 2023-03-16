@@ -8,3 +8,8 @@
 3. Present in both - Write a function that returns a set of common elements in two sets.
 4. Only differents - Write a function that returns a set of all elements present in only one set.
 5. Number of keys - Write a function that returns the number of keys in a dictionary.
+6. Print sorted dictionary - Write a function that prints a dictionary by ordered keys.
+	* You can assume that all keys are strings
+	* Keys should be sorted by alphabetic order
+	* Only sort keys of the first level (don’t sort keys of a dictionary inside the main dictionary)
+	* Dictionary values can have any type
