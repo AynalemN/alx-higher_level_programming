@@ -5,3 +5,4 @@
 	* `search` is the element to replace in the list
 	* `replace`  is the new element
 2. Unique addition - Write a function that adds all unique integers in a list (only once for each integer).
+3. Present in both - Write a function that returns a set of common elements in two sets.
