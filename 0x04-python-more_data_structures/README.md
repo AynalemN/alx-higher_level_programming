@@ -19,3 +19,4 @@
 	* If a key exists in the dictionary, the value will be replaced
 	* If a key doesn’t exist in the dictionary, it will be created
 8. Simple delete by key - Write a function that deletes a key in a dictionary.
+9. Multiply by 2 - Write a function that returns a new dictionary with all values multiplied by 2
