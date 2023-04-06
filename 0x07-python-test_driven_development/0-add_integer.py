@@ -1,9 +1,11 @@
 #!/usr/bin/python3
 
-""" Addition """
+
+"""Addition"""
+
 
 def add_integer(a, b=98):
-    """ adding two numbers """
+    """adding two numbers"""
     if isinstance(a, (int, float)) is False:
         raise TypeError('a must be an integer')
     if isinstance(b, (int, float)) is False:
