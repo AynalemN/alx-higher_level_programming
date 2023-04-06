@@ -43,4 +43,3 @@ TypeError: matrix_divided() missing 1 required positional argument: 'div'
 >>> matrix_divided([[3, "a"], [12, 3]], 3)
 Traceback (most recent call last):
 TypeError: unsupported operand type(s) for /: 'str' and 'int'
-
